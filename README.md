@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ThePsychoFIN
-- 👀 I’m interested in games / codes
 - 🌱 I’m currently learning coding
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm "old"
 
 <!---
